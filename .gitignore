@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Local data and logs
+*.csv
+transactions.json
+portfolio.json.bak
+
+# Generated financial reports (keep reports/ directory but ignore contents)
+reports/vcp_screener_*.json
+reports/vcp_screener_*.md
+reports/canslim_screener_*.json
+reports/canslim_screener_*.md
+reports/*_report.md
+
+# IDE / OS configs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
