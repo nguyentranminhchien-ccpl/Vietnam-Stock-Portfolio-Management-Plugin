@@ -1,0 +1,13 @@
+{
+  "watchlist": [
+    {
+      "symbol": "EXAMPLE.VN",
+      "reason": "Mô tả lý do đưa vào watchlist, ví dụ: định giá rẻ, chờ điểm nổ.",
+      "target_buy_vnd": 25000,
+      "stop_watch_vnd": 23000,
+      "allocation_plan": "long-term",
+      "added_date": "2026-06-23",
+      "notes": "Quan sát thêm diễn biến giá."
+    }
+  ]
+}

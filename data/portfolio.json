@@ -1,0 +1,24 @@
+{
+  "portfolio_type": "Vietnam Stock Portfolio",
+  "cash_balance_vnd": 100000000,
+  "holdings": [
+    {
+      "ticker": "EXAMPLE.VN",
+      "shares": 1000,
+      "basis_price": 20000.0,
+      "allocation": "long-term",
+      "current_price": 21000.0,
+      "current_value": 21000000.0,
+      "pnl": 1000000.0,
+      "pnl_pct": 5.0,
+      "stop_loss_ref": 19000.0,
+      "pct_portfolio": 100.0
+    }
+  ],
+  "total_stock_value_vnd": 21000000.0,
+  "total_portfolio_value_vnd": 121000000.0,
+  "total_cost_vnd": 20000000.0,
+  "total_pnl_vnd": 1000000.0,
+  "total_pnl_pct": 5.0,
+  "last_updated": "2026-06-23 00:00:00"
+}
