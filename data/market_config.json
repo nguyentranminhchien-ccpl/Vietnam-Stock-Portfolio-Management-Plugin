@@ -1,8 +1,0 @@
-{
-  "benchmark": "VNINDEX",
-  "risk_free_rate": 0.05,
-  "default_risk_premium": 0.06,
-  "inflation_rate": 0.035,
-  "market_status": "uptrend",
-  "last_updated": "2026-06-21"
-}
